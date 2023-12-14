@@ -2,7 +2,7 @@
 
 <!-- ![Teaser](teaser.png) -->
 <p align="center">
-  <img src="./assets/teaser.jpg" height=600>
+  <img src="./assets/teaser.jpg" width=800>
 </p>
 
 [Nan Huang](https://github.com/nnanhuang),
@@ -15,7 +15,7 @@
 [![Project page](https://img.shields.io/badge/Project-Page-brightgreen)](https://nnanhuang.github.io/projects/customize-it-3d/)
 
 <p align="center">
-  <img src="./assets/pipeline.jpg" height=600>
+  <img src="./assets/pipeline.jpg" width=800>
 </p>
 
 <div align="center">
