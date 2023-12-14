@@ -9,7 +9,7 @@
 [Ting Zhang](https://www.microsoft.com/en-us/research/people/tinzhan/),
 [Yuhui Yuan](https://www.microsoft.com/en-us/research/people/yuyua/),
 [Dong Chen](https://www.microsoft.com/en-us/research/people/doch/),
-[Shanghang Zhang](https://www.shanghangzhang.com/),
+[Shanghang Zhang](https://www.shanghangzhang.com/)
 
 <!-- [![arXiv](https://img.shields.io/badge/ArXiv-2310.11784-red)](https://arxiv.org/abs/2310.11784) -->
 [![Project page](https://img.shields.io/badge/Project-Page-brightgreen)](https://nnanhuang.github.io/projects/customize-it-3d/)
@@ -25,6 +25,9 @@
 ## News
 
 - [2023/12/14] Our code and paper will open after the paper has been reviewed. 
+
+## Demo of 360° geometry
+<img src="assets/resfull.gif" width="800" />
 
 ## Bibtex
 If you find this work useful, a citation will be appreciated via:
