@@ -11,7 +11,7 @@
 [Dong Chen](https://www.microsoft.com/en-us/research/people/doch/),
 [Shanghang Zhang](https://www.shanghangzhang.com/)
 
-<!-- [![arXiv](https://img.shields.io/badge/ArXiv-2310.11784-red)](https://arxiv.org/abs/2310.11784) -->
+[![arXiv](https://img.shields.io/badge/ArXiv-2310.11784-red)](http://arxiv.org/abs/2312.11535)
 [![Project page](https://img.shields.io/badge/Project-Page-brightgreen)](https://nnanhuang.github.io/projects/customize-it-3d/)
 
 <p align="center">
@@ -23,8 +23,7 @@
 </div>
 
 ## News
-
-- [2023/12/14] Our code and paper will open after the paper has been reviewed. 
+- [2023/12/14] Our code will open soon. 
 
 ## Demo of 360° geometry
 <img src="assets/resfull.gif" width="800" />
@@ -32,16 +31,16 @@
 ## Bibtex
 If you find this work useful, a citation will be appreciated via:
 
-<!-- <pre><code>
-    @misc{cheng2023progressive3d,
-        title={Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts}, 
-        author={Xinhua Cheng and Tianyu Yang and Jianan Wang and Yu Li and Lei Zhang and Jian Zhang and Li Yuan},
-        year={2023},
-        eprint={2310.11784},
-        archivePrefix={arXiv},
-        primaryClass={cs.CV}
+<pre><code>
+    @misc{huang2023customizeit3d,
+      title={Customize-It-3D: High-Quality 3D Creation from A Single Image Using Subject-Specific Knowledge Prior}, 
+      author={Nan Huang and Ting Zhang and Yuhui Yuan and Dong Chen and Shanghang Zhang},
+      year={2023},
+      eprint={2312.11535},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
     }
-</code></pre> -->
+</code></pre>
 
 ## Acknowledgments
 This code borrows heavily from [Stable-Dreamfusion](https://github.com/ashawkey/stable-dreamfusion), many thanks to the author. 
