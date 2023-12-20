@@ -11,7 +11,7 @@
 [Dong Chen](https://www.microsoft.com/en-us/research/people/doch/),
 [Shanghang Zhang](https://www.shanghangzhang.com/)
 
-[![arXiv](https://img.shields.io/badge/ArXiv-2310.11784-red)](http://arxiv.org/abs/2312.11535)
+[![arXiv](https://img.shields.io/badge/ArXiv-2312.11535-red)](http://arxiv.org/abs/2312.11535)
 [![Project page](https://img.shields.io/badge/Project-Page-brightgreen)](https://nnanhuang.github.io/projects/customize-it-3d/)
 
 <p align="center">
