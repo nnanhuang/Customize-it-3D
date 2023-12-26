@@ -19,6 +19,7 @@ open3d==0.16.0.0
 torchmetrics
 tensorboard
 torch-ema
+natsort
 
 # for grid_tcnn
 git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
