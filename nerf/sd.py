@@ -88,7 +88,7 @@ class StableDiffusion(nn.Module):
                     else:
                         p = 'sks ' + p
 
-                print("[INFO] actually using prompt:"+p)
+                # print("[INFO] actually using prompt:"+p)
                 new_prompt_list.append(p)
 
             prompt = new_prompt_list
