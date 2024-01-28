@@ -26,7 +26,7 @@ git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
 
 # new for mesh
 git+https://github.com/NVlabs/nvdiffrast/
-pymeshlab
+pymeshlab # pymeshlab==2022.2.post3
 
 # for preprocess
 carvekit-colab
